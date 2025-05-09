@@ -36,7 +36,7 @@ Effortlessly export the selected indices – simply copy the generated Python li
     * Status bar for feedback and error messages.
 * **Resizable Interface:** The main window can be resized.
 
-## Technologies Used
+## Packages Used
 
 * **Python 3.x**
 * **OpenCV (`cv2`):** For image and video processing.
