@@ -6,7 +6,6 @@ from PIL import Image, ImageTk
 import numpy as np
 import os
 
-# Define a default set of landmark indices
 DEFAULT_LANDMARK_INDICES = sorted(list(set([
     0, 1, 2, 4, 5, 6, 7, 10, 13, 14, 17, 21, 30, 33, 37, 39, 40, 46, 48, 52, 53, 54, 55, 58,
     61, 63, 65, 66, 67, 70, 78, 80, 81, 82, 84, 91, 93, 98, 103, 105, 107, 109, 127, 132,
