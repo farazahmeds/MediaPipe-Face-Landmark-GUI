@@ -2,7 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An interactive desktop application built with Python, Tkinter, OpenCV, and MediaPipe that allows users to visualize facial landmarks on images or live webcam feeds, select specific landmarks, and export their indices.
+This tool was born out of the repetitive need to consult facial landmark diagrams and manually input indices into code. If you've faced similar issue, this might be what you're looking for. It offers an intuitive way to:
+
+Visualize detailed facial landmarks on static images or a live webcam stream.
+Interactively select the specific landmarks you require.
+Effortlessly export the selected indices – simply copy the generated Python list or save the full selection. This aims to save you time and make working with facial landmark data more efficient."
 
 ![landmark selector tool](mp_landmarks_selection_gui.png)
 
