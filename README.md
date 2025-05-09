@@ -81,4 +81,4 @@ An interactive desktop application built with Python, Tkinter, OpenCV, and Media
 Run the application script from your terminal:
 
 ```bash
-python your_script_name.py
+python mp_face_landmark_selector.py
