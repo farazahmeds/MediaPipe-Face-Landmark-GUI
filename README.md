@@ -7,9 +7,6 @@ An interactive desktop application built with Python, Tkinter, OpenCV, and Media
 ![landmark selector tool](mp_landmarks_selection_gui.png)
 
 
-![Screenshot of Application (Recommended: Add a screenshot here!)](placeholder.png)
-*(Recommendation: Replace `placeholder.png` with an actual screenshot of your application in action.)*
-
 ## Features
 
 * **Multiple Input Sources:**
